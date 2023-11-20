@@ -9,8 +9,7 @@ Este proyecto realiza un análisis de satisfacción de clientes utilizando datos
 
 ## Instalación
 
-1. Clona el repositorio o descarga el código fuente.
-2. Instala las dependencias necesarias usando `pip install -r requirements.txt`.
+Clona el repositorio o descarga el código fuente.
 
 ## Uso
 
