@@ -14,7 +14,7 @@ from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier,
 from sklearn.metrics import f1_score, accuracy_score, recall_score, precision_score, confusion_matrix
 from sklearn.decomposition import PCA
 
-data = pd.read_excel('/content/drive/MyDrive/satisfaccion_AeroML.xlsx', engine='openpyxl', index_col=0)
+data = pd.read_excel('satisfaccion_AeroML.xlsx', engine='openpyxl', index_col=0)
 
 print(data.info())
 print(data.describe())
